@@ -64,6 +64,6 @@ El objetivo es demostrar fundamentos de análisis de datos, definición de métr
 ---
 
  👤 Autor
-**Neto Vich**  
+Segovia Matias
 Aspirante a Data Engineer
 
