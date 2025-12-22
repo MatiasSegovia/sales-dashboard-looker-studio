@@ -1,78 +1,69 @@
-# sales-dashboard-looker-studio
+ sales-dashboard-looker-studio
 Sales analytics dashboard built with Looker Studio using SQL-based sample data. / Panel de análisis de ventas creado con Looker Studio utilizando datos de muestra basados ​​en SQL.
-# Blackout Sales Dashboard
+ Blackout Sales Dashboard
+
+(English version below ↓)
+
+---
+
+ 📊 Project Overview (EN)
 
 This project presents a sales analytics dashboard built using **Looker Studio** on top of a SQL-based sample dataset.
 
 The goal of the project is to demonstrate fundamental data analysis skills, metric definition, and dashboard design as part of my learning path toward Data Engineering.
 
----
-
-## 📊 Dashboard Overview
-
-The dashboard provides insights into:
-
+ Dashboard Highlights
 - Total Sales
-- Number of Distinct Orders
+- Distinct Orders
 - Average Sales per Order
 - Sales trends over time
-- Sales and customers distribution by country
-- Top-selling products
+- Sales and customers by country
+- Top products by sales
 - Sales by product category
 - Average transactions per customer
 
-The dashboard is interactive and includes a date range selector to explore different time periods.
-
 ---
 
-## 🛠️ Tools & Technologies
-
-- SQL (for data exploration and metric calculation)
-- Looker Studio (dashboard design and visualization)
+ 🛠️ Tools & Technologies
+- SQL
+- Looker Studio
 - Sample sales dataset
 
 ---
 
-## 📈 Key Metrics
-
-- **Total Sales**
-- **Distinct Orders**
-- **Average Sales per Order**
-- **Sales by Country**
-- **Top Products by Sales**
-- **Average Transactions per Customer**
+ 🎯 Project Purpose
+This project was created as a capstone-style exercise focused on translating raw data into business-oriented insights.
 
 ---
 
-## 🎯 Project Purpose
+---
 
-This project was created as a **capstone-style exercise** after completing:
+ 📊 Descripción del Proyecto (ES)
 
-- SQL fundamentals (joins, aggregations, filters)
-- Query practice using platforms like SQLBolt
-- Problem-solving exercises (e.g. LeetCode)
+Este proyecto presenta un dashboard de ventas construido con **Looker Studio** a partir de un dataset de ejemplo basado en SQL.
 
-The focus was not only on writing queries, but also on **translating raw data into business-oriented insights**.
+El objetivo es demostrar fundamentos de análisis de datos, definición de métricas y diseño de dashboards como parte de mi camino de formación hacia Data Engineering.
+
+  Qué muestra el dashboard
+- Ventas totales
+- Órdenes únicas
+- Promedio de ventas por orden
+- Evolución de ventas en el tiempo
+- Ventas y clientes por país
+- Productos con mayores ventas
+- Ventas por categoría de producto
+- Promedio de transacciones por cliente
 
 ---
 
-## 📸 Dashboard Preview
-
-Screenshots of the dashboard are available in the `/dashboard` folder.
-
----
-
-## 🚀 Next Steps
-
-In future iterations, this project could be extended by:
-
-- Modeling the data in a database
-- Building ETL pipelines
-- Migrating the dataset to a data warehouse or lakehouse environment
+ 🛠️ Herramientas utilizadas
+- SQL
+- Looker Studio
+- Dataset de ventas de ejemplo
 
 ---
 
-## 👤 Author
+ 👤 Autor
+**Neto Vich**  
+Aspirante a Data Engineer
 
-Segovia Matias
-Aspiring Data Engineer
